@@ -3,9 +3,9 @@ layout: post
 title:  "She walks in beauty."
 date:   2019-12-20 14:05:21 +0800
 tags: jekyll update
-color: rgb(102,153,255)
-cover: '../assets/my_love.png'
-subtitle: 'To Ran'
+color: rgb(179, 217, 255)
+cover: '../assets/my_love.jpg'
+subtitle: 'She walks in beauty'
 ---
 
 > She walks in beauty, like the night.  
