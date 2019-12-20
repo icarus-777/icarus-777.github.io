@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings 配置站点
-title: 'your awesome title'
-description: 'your web description'
-keywords: 'your web keywords, another keywords'
+title: 'website of icarus'
+description: 'icarus的生活与工作杂谈'
+keywords: 'icarus'
 url: https://www.the-icarus.site
 
 repository: icarus-777/icarus-777.github.io
@@ -33,13 +33,13 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: 'your awesome name'
-NickName: 'your awesome nickname'
-webtitle: 'your awesome webtitle'
-bio: 'your awesome bio'
+name: 'icarus'
+NickName: '小李'
+webtitle: 'Welcome to my garden'
+bio: 'she walks in beauty'
 about: true
-aboutyou: 'your introduction'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+aboutyou: '有一个爱的人，缺一只爱的猫～'
+portraits: '/assets/me.jpg' # your portraits image file path
 
 # SNS
 SNS: true
