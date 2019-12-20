@@ -36,9 +36,9 @@ author: true
 name: 'icarus'
 NickName: '小李'
 webtitle: 'Welcome to my garden'
-bio: 'she walks in beauty'
+bio: 'VENI VIDI VICI'
 about: true
-aboutyou: '有一个爱的人，缺一只爱的猫～'
+aboutyou: '有一个人，缺一只猫～'
 portraits: '/assets/me.jpg' # your portraits image file path
 
 # SNS
